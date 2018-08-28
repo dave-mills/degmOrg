@@ -1,0 +1,27 @@
+- New Member of Staff: nicolas.greliche@yahoo.fr  @parallel(true) @autodone(false)
+	- Setup / Check new email / office 365 account @parallel(true) @autodone(false) @done(2018-07-13 21:37)
+		Setup password and ensure info is with compute for Monday morning. 
+
+	- Add user to all staff group @parallel(true) @autodone(false) @done(2018-07-13 21:38)
+	- Add OrangeHRM account @parallel(true) @autodone(false) @done(2018-07-13 21:38)
+		9.5 holiday days for 2018 (.8 working)
+
+	- Add Stats4sd.org wordpress user @parallel(true) @autodone(false) @done(2018-07-16 12:35)
+	- Add pen profile and photo to team page @parallel(true) @autodone(false) @done(2018-07-16 12:35)
+		Liaise with Nicolas for this
+
+	- Setup computer for them @parallel(true) @autodone(false) @done(2018-07-16 09:12)
+		- Check what setup they want @parallel(true) @autodone(false) @done(2018-07-16 09:12)
+		- Windows Pro installation @parallel(true) @autodone(false) @done(2018-07-16 09:12)
+		- Check computer’s linked to ADD @parallel(true) @autodone(false) @done(2018-07-16 09:12)
+		- Install Apps: @parallel(true) @autodone(false) @done(2018-07-16 09:12)
+			- R / R studio @parallel(true) @autodone(false) @done(2018-07-16 09:12)
+			- Office 365 @parallel(true) @autodone(false) @done(2018-07-16 09:12)
+			- Ninite set @parallel(true) @autodone(false) @done(2018-07-16 09:12)
+		- Run first backup script @parallel(true) @autodone(false) @done(2018-07-16 09:12)
+	- New FreeAgent user @parallel(true) @autodone(false) @done(2018-07-16 12:37)
+		Carlos will do.
+
+	- Github? @parallel(true) @autodone(false) @done(2018-07-16 12:37)
+	- New Dropbox business user account @parallel(true) @autodone(false) @done(2018-07-13 21:41)
+	- Add computer password to postit on computer @parallel(true) @autodone(false) @done(2018-07-16 12:37)
